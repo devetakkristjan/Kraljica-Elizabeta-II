@@ -1,1 +1,1 @@
-https://github.com/devetakkristjan/Kraljica-Elizabeta-II/blob/main/index.html
+https://devetakkristjan.github.io/Kraljica-Elizabeta-II/
